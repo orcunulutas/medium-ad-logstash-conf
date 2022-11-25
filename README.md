@@ -1,0 +1,1 @@
+# medium-ad-logstash-conf
